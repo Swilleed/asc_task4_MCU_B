@@ -1,0 +1,68 @@
+# dot files
+/.vscode/launch.json
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+
+# project out
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
+
+# Keil uVision 项目文件
+*.uvguix.*
+*.uvoptx
+*.uvprojx.user
+*.uvmpw
+
+# 编译输出目录
+Objects/
+Listings/
+*.lst
+*.map
+*.htm
+*.crf
+*.d
+*.axf
+*.lnp
+*.sct
+*.dep
+
+# 编译中间文件
+*.o
+*.d
+*.i
+*.su
+*.gcno
+*.gcda
+
+# 二进制输出文件
+*.hex
+*.bin
+*.elf
+
+# 调试文件
+*.cdb
+*.dbg
+*.ini
+*.scvd
+
+# 临时文件
+*.bak
+*.tmp
+*~
+*.swp
+*.swo
+
+# IDE 设置文件
+.vs/
+.vscode/
+.idea/
+
+# EIDE文件
+EIDEFiles/
